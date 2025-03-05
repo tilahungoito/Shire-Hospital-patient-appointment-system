@@ -26,7 +26,7 @@ Follow these steps to set up and run the **Shire Referral Hospital Appointment S
 
 1. Download the project ZIP file or clone the repository using Git:
    ```bash
-   git clone https://github.com/your-repo/shire-referral-hospital-appointment-system.git
+   git clone https://github.com/tilahungoito/shire-referral-hospital-appointment-system.git
    ```
 2. Extract the project files (if downloaded as a ZIP) into a folder.
 
